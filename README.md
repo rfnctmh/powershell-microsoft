@@ -1,4 +1,4 @@
-# powershell-microsoft
+# PowerShell Microsoft
 
 ## 專案概述
 這個專案包含了與 Microsoft 相關的 PowerShell 腳本，用於管理 Azure AD 和其他功能。
